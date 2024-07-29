@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MukundLokhande/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MukundLokhande/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MukundLokhande/LeetCode/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/MukundLokhande/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MukundLokhande/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MukundLokhande/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MukundLokhande/LeetCode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/MukundLokhande/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MukundLokhande/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
