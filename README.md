@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MukundLokhande/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MukundLokhande/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MukundLokhande/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0605-can-place-flowers](https://github.com/MukundLokhande/LeetCode/tree/master/0605-can-place-flowers) |
 | [2727-number-of-senior-citizens](https://github.com/MukundLokhande/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/MukundLokhande/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/MukundLokhande/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
