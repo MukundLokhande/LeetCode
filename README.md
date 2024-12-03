@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MukundLokhande/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MukundLokhande/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MukundLokhande/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/MukundLokhande/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MukundLokhande/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/MukundLokhande/LeetCode/tree/master/0605-can-place-flowers) |
 | [2727-number-of-senior-citizens](https://github.com/MukundLokhande/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MukundLokhande/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/MukundLokhande/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/MukundLokhande/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/MukundLokhande/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MukundLokhande/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MukundLokhande/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MukundLokhande/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MukundLokhande/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MukundLokhande/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MukundLokhande/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MukundLokhande/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MukundLokhande/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/MukundLokhande/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MukundLokhande/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MukundLokhande/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -50,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MukundLokhande/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MukundLokhande/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MukundLokhande/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MukundLokhande/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MukundLokhande/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
